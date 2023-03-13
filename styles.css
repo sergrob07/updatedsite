@@ -8,3 +8,21 @@ body {
 h1 {
     margin-top: 0;
 }
+.bottom-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.middle-container {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.mountain-img{
+    visibility: hidden;
+}
